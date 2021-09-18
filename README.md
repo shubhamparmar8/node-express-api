@@ -2,18 +2,18 @@
 
 A CRUD REST API built using Node.js and Express
 
-## routes
+## Routes
 ### Get all user
 GET  /users
 
 ### Get single user
 GET  /users/:id
 
-### create user
+### Create user
 POST  /users
 
-### update user
+### Update user
 PATCH  /users/:id
 
-### delete user
+### Delete user
 DELETE  /users/:id
